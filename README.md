@@ -17,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/70372577/130392383-4b722baf-5893-4b05-95dc-acb76006432c.png)
 
 ![image](https://user-images.githubusercontent.com/70372577/130395111-43375a0c-b2a4-45ab-b522-92fa3f9861b8.png)
-
+( nand , or , and 
 단층 퍼셉트론 만으로는 XOR 의 구분이 불가능하다.
 여기에 얽힌 일화는 상당히 재미있다.
 XOR도 구분못하는 AI는 성장가능성이 없다는 입장을보인 한 교수가 있었는데
