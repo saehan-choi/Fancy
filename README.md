@@ -33,5 +33,5 @@ XOR도 구분못하는 AI는 성장가능성이 없다는 입장을보인 한 �
 
 이점들을 검출하는데에, opencv와 DFS 알고리즘을 이용하여 위치 및 점들의 크기를 검출할 수 있다.
 ![image](https://user-images.githubusercontent.com/70372577/130711500-d49d80f7-f87a-40fb-aa0a-548849add270.png)
-
+( 픽셀 크기별로 검출하는 사진 )
 
